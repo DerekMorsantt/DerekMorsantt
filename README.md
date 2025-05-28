@@ -5,8 +5,12 @@
   <samp>
     <br>Soy un estudiante de programacion de 4to Diversificado.<br>
     <br>🔹 Actualmente estoy aprendiendo JAVA, HTML, CSS Y SQL.
-    <br>🔹 Soy usuario de Parrot
+    <br>🔹 Soy usuario de Parrot.
     <br>🔹 Me interesa el desarrollo de aplicaciones mobiles y desarrollo de videojuegos.
+    <br>🔹 Me gusta Alejandra De La Vega.
+    <br>🔹Soy esmeralda en lol.
+    <br>🔹Campeon pokemon en la region Kalos.
+    <br>🔹Main D.VA en Overwatch.
     </samp>
    <br>
   <br>
