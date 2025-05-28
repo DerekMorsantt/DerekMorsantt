@@ -11,6 +11,8 @@
     <br>🔹 Soy esmeralda en lol.
     <br>🔹 Campeon pokemon en la region Kalos.
     <br>🔹 Main D.VA en Overwatch.
+    <br>🔹 Soy Gymrat en proceso. 
+    <br>🔹 BMW M4 Competition.
     </samp>
    <br>
   <br>
