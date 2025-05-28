@@ -1,7 +1,7 @@
-### Hello World. I'm Jossue Fuentes 👋.
+### Hello World. I'm Derek Morales 👋.
 ---
 <p>
-  <img src="./" align="right" width="15%"/>
+  <img src="./dd9nvgt-10b1bc61-c854-446a-bac5-c746e007fd99-1687275450.gif" align="right" width="15%"/>
   <samp>
     <br>Soy un desarrollador Web y creador de contenidos digitales.
     <br>
