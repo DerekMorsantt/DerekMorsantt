@@ -8,7 +8,6 @@
     <br>🔹 Actualmente estoy aprendiendo JAVA, HTML, CSS Y SQL.
     <br>🔹 Soy usuario de Parrot.
     <br>🔹 Me interesa el desarrollo de aplicaciones mobiles y desarrollo de videojuegos.
-    <br>🔹 Me gusta Alejandra De La Vega.
     <br>🔹 Main WarWick en lol.
     <br>🔹 Campeon pokemon en la region Kalos.
     <br>🔹 Main D.VA en Overwatch.
