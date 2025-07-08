@@ -6,7 +6,7 @@
     <br>Soy un estudiante de programación de 4to Diversificado.<br>
 <br>🔹 Licenciado en Hola mundo.
     <br>🔹 Actualmente estoy aprendiendo JAVA, JAVASCRIPT, HTML, CSS Y SQL.
-    <br>🔹 Soy usuario de Parrot.
+    <br>🔹 Soy usuario de Fedora.
     <br>🔹 Me interesa el desarrollo de aplicaciones mobiles y desarrollo de videojuegos.
     <br>🔹 Main WarWick en lol.
     <br>🔹 Campeón pokemon en la región Kalos.
