@@ -8,13 +8,13 @@
     <br>🔹 Desarrollo web estático con HTML y CSS.
     <br>🔹 Conocimientos básicos en bases de datos relacionales y consultas SQL.
     <br>🔹 Me interesa el desarrollo de páginas web, aplicaciones móviles y videojuegos.
-    <br>🔹 Mi portafolio personal: https://derekmorsantt.github.io/PortafolioPersonal/
+    <br>🔹 mi portafolio personal en línea: https://derekmorsantt.github.io/PortafolioPersonal/
     </samp>
    <br>
   <br>
   <p align="center">
     <samp>
-      #html, #css, #java, #git, #SQL, #Bash, #linux #JavaScript
+      #html, #css, #java, #git, #SQL, #Bash, #linux, #JavaScript
      </samp>
     <br>
   </p>
