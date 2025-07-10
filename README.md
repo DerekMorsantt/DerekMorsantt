@@ -3,14 +3,11 @@
 <p>
   <img src="./dd9nvgt-10b1bc61-c854-446a-bac5-c746e007fd99-1687275450.gif" align="right" width="15%"/>
   <samp>
-    <br>Soy estudiante de programación de 4to Diversificado.<br>
-    <br>🔹 Licenciado en Hola mundo.
+    <br>Soy un estudiante de programación de 4to Diversificado.<br>
     <br>🔹 Actualmente estoy aprendiendo JAVA y JAVASCRIPT.
     <br>🔹 Desarrollo web estático con HTML y CSS.
     <br>🔹 Conocimientos básicos en bases de datos relacionales y consultas SQL.
-    <br>🔹 Me interesa el desarrollo de aplicaciones mobiles y desarrollo de videojuegos.
-    <br>🔹 Main WarWick en lol.
-    <br>🔹 Campeón pokemon en la región Kalos.
+    <br>🔹 Me interesa el desarrollo de páginas web, aplicaciones móviles y videojuegos.
     <br>🔹 Mi portafolio personal: https://derekmorsantt.github.io/PortafolioPersonal/
     </samp>
    <br>
